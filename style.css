@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #264653;
+}
+.custom_bg_color{
+    background-color: #e76f51;
+    border: none;
+}
+.custom_text_color{
+    color: #e76f51;
+}
+.custom_img{
+    filter: grayscale(1);
+}
